@@ -1,4 +1,5 @@
-# Cloud_Chat_App
+# Chat Me 
+<i><b>A Cloud based Chat App</b></i>
 
 #### The app allows users to send and receive messages among each other in real time. The app works offline too. When there is no internet connection the app will save the data locally. When the app is back online it will sync the messages automatically and any conflict resolution will be handled. The app consists of a login page from where the user can log into his/her account if the user doesn’t have an account then the user has to go to the sign up page and create a new account there. After creating an account a confirmation code for the same will be sent to the user’s registered email id. The user has to enter this code in the confirmation page for verification. Then the user can go to the messaging screen and can chat with others. 
 
